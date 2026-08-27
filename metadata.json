@@ -1,0 +1,6 @@
+{
+  "name": "Customer-Facing AI Agent Codelab",
+  "description": "An interactive codelab and workbench to build, test, guardrail, evaluate, and deploy customer-facing AI agents with Gemini function calling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
